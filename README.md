@@ -27,7 +27,7 @@
 
 **视频教程：**
 
-- 尚硅谷 JavaScript 高级教程
+- [尚硅谷 JavaScript 高级教程](https://www.bilibili.com/video/BV14s411E7qf)
 - 黑马程序员 JavaScript 深入浅出
 - Bilibili 搜索 "JavaScript 进阶"
 
@@ -365,3 +365,4 @@
 - **CI/CD**：GitHub Actions、Jenkins
 - **监控**：日志分析、性能监控
 - **容器编排**：Kubernetes 基础
+
